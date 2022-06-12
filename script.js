@@ -12,3 +12,8 @@ function fibo(c){
 
     fibo(9);
     fibo(10);
+
+    function abc(){
+        console.log("soemthigng");
+    }
+    
