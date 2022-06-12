@@ -9,4 +9,6 @@ function fibo(c){
         num2= num3;
         }
     }
+
     fibo(9);
+    fibo(10);
